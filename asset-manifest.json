@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.c000538e.css",
-    "main.js": "/my-app/static/js/main.896af868.js",
-    "static/js/787.28cb0dcd.chunk.js": "/my-app/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/my-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/my-app/index.html",
-    "main.c000538e.css.map": "/my-app/static/css/main.c000538e.css.map",
-    "main.896af868.js.map": "/my-app/static/js/main.896af868.js.map",
-    "787.28cb0dcd.chunk.js.map": "/my-app/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/sportify/static/css/main.c000538e.css",
+    "main.js": "/sportify/static/js/main.58f778f2.js",
+    "static/js/787.28cb0dcd.chunk.js": "/sportify/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/sportify/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sportify/index.html",
+    "main.c000538e.css.map": "/sportify/static/css/main.c000538e.css.map",
+    "main.58f778f2.js.map": "/sportify/static/js/main.58f778f2.js.map",
+    "787.28cb0dcd.chunk.js.map": "/sportify/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c000538e.css",
-    "static/js/main.896af868.js"
+    "static/js/main.58f778f2.js"
   ]
 }
